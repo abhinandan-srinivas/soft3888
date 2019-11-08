@@ -1,0 +1,69 @@
+(for comments){
+1(comment_id):
+{
+userid: 12345678
+time: 25/10/2019 12:45
+comment: _____
+}
+}
+
+(for definitions)
+{
+  beds_available (kpi name):{
+  definition: total beds available
+  formula: total beds - beds in use
+}
+}
+
+(KPIS done)
+status_at: 1030,
+waiting_in_ed_count:{
+waiting_in_ed_count_total: 24,
+not_triaged: 3,
+not_seen: 21,
+departed: 0,
+},
+beds_available:{
+beds_available_number: 24,
+accessible: 3,
+occupied: 21,
+},
+waiting_in_ed_hours:{
+zero_two: 19,
+two_three: 8,
+three_four: 7,
+four_twentyfour: 12,
+},
+presentations: 24,
+ed_all_etp:{
+all_admits: 32,
+transferred: 7,
+percentage: 50.0%,
+},
+ed_admits_no_specialty:{
+all_admits: 20,
+transferred: 7,
+percentage: 35.0%,
+},
+ed_non_admits_etp:{
+all_non_admits: 41,
+non_admints_dc: 26,
+percentage: 63.4%,
+},
+ed_admits_specialty:{
+all_admits: 12,
+transferred: 9,
+percentage: 75.0%,
+},
+general:{
+in_ed: 52,
+since_midnight: 3,
+last_seven_days: 21,
+},
+triage:{
+one: 4,
+two: 5,
+three: 12,
+four: 10,
+five: 5,
+},

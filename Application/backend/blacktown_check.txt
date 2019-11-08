@@ -1,0 +1,57 @@
+status_at: 1030,
+
+waiting_in_ed_count:{
+waiting_in_ed_count_total: 1,
+not_triaged: 0,
+not_seen: 0,
+departed: 3,
+},
+
+waiting_in_ed_hours:{
+zero_two: 0,
+two_three: 0,
+three_four: 0,
+four_twentyfour: 0,
+},
+
+presentations: 38,
+// presentations: 15, ??
+
+ed_all_etp:{
+all_admits: 38,
+transferred: 16,
+percentage: 42.11%,
+},
+
+ed_admits_no_specialty:{
+all_admits: 21,
+transferred: 0,
+percentage: 0.0%,
+},
+
+// idk what this means
+ed_non_admits_etp:{
+all_non_admits: 0,
+non_admints_dc: 0,
+percentage: 0.0%,
+},
+
+ed_admits_specialty:{
+all_admits: 17,
+transferred: 16,
+percentage: 94.12%,
+},
+
+general:{
+in_ed: 1,
+since_midnight: 38,
+last_seven_days: 1078,
+},
+
+triage:{
+one: 0,
+two: 5,
+three: 8,
+four: 2,
+five: 0,
+},

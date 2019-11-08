@@ -1,0 +1,274 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Dashboards renders correctly 1`] = `
+<View>
+  <View
+    style={
+      Array [
+        Object {
+          "borderWidth": 1,
+          "marginBottom": 8,
+          "marginLeft": 16,
+          "marginRight": 16,
+          "marginTop": 8,
+          "padding": 16,
+        },
+        Object {
+          "alignItems": "flex-end",
+          "alignSelf": "stretch",
+          "flexDirection": "row",
+          "justifyContent": "space-between",
+        },
+      ]
+    }
+  >
+    <View
+      style={
+        Object {
+          "alignItems": "center",
+        }
+      }
+    >
+      <Text
+        style={
+          Object {
+            "fontSize": 16,
+            "fontWeight": "bold",
+            "marginBottom": 12,
+            "textAlign": "center",
+          }
+        }
+      >
+        Beds available
+      </Text>
+      <Text
+        style={
+          Object {
+            "fontSize": 56,
+            "lineHeight": 56,
+          }
+        }
+      >
+        3
+      </Text>
+    </View>
+    <View
+      style={
+        Object {
+          "alignItems": "center",
+        }
+      }
+    >
+      <Text
+        style={
+          Array [
+            Object {
+              "fontSize": 14,
+              "height": 34,
+              "textAlign": "center",
+              "width": 80,
+            },
+            Object {
+              "textAlignVertical": "bottom",
+            },
+          ]
+        }
+      >
+        Accessible
+      </Text>
+      <Text
+        style={
+          Object {
+            "fontSize": 32,
+            "lineHeight": 45,
+          }
+        }
+      >
+        3
+      </Text>
+    </View>
+    <View
+      style={
+        Object {
+          "alignItems": "center",
+        }
+      }
+    >
+      <Text
+        style={
+          Array [
+            Object {
+              "fontSize": 14,
+              "height": 34,
+              "textAlign": "center",
+              "width": 80,
+            },
+            Object {
+              "textAlignVertical": "bottom",
+            },
+          ]
+        }
+      >
+        Occupied
+      </Text>
+      <Text
+        style={
+          Object {
+            "fontSize": 32,
+            "lineHeight": 45,
+          }
+        }
+      >
+        21
+      </Text>
+    </View>
+  </View>
+  <View
+    style={
+      Array [
+        Object {
+          "borderWidth": 1,
+          "marginBottom": 8,
+          "marginLeft": 16,
+          "marginRight": 16,
+          "marginTop": 8,
+          "padding": 16,
+        },
+        Object {
+          "alignItems": "flex-start",
+          "flexDirection": "column",
+        },
+      ]
+    }
+  >
+    <Text
+      style={
+        Object {
+          "fontSize": 16,
+          "fontWeight": "bold",
+          "marginBottom": 12,
+          "textAlign": "center",
+        }
+      }
+    >
+      ED Admits ETP
+    </Text>
+    <View
+      style={
+        Object {
+          "alignItems": "flex-end",
+          "alignSelf": "stretch",
+          "flexDirection": "row",
+          "justifyContent": "space-between",
+        }
+      }
+    >
+      <View
+        style={
+          Object {
+            "alignItems": "center",
+          }
+        }
+      >
+        <Text
+          style={
+            Array [
+              Object {
+                "fontSize": 14,
+                "height": 34,
+                "textAlign": "center",
+                "width": 80,
+              },
+              Object {
+                "textAlignVertical": "top",
+              },
+            ]
+          }
+        >
+          All admits
+        </Text>
+        <Text
+          style={
+            Object {
+              "fontSize": 56,
+              "lineHeight": 56,
+            }
+          }
+        >
+          32
+        </Text>
+      </View>
+      <View
+        style={
+          Object {
+            "alignItems": "center",
+          }
+        }
+      >
+        <Text
+          style={
+            Array [
+              Object {
+                "fontSize": 14,
+                "height": 34,
+                "textAlign": "center",
+                "width": 80,
+              },
+              Object {
+                "textAlignVertical": "bottom",
+              },
+            ]
+          }
+        >
+          Transferred in 4
+        </Text>
+        <Text
+          style={
+            Object {
+              "fontSize": 32,
+              "lineHeight": 45,
+            }
+          }
+        >
+          16
+        </Text>
+      </View>
+      <View
+        style={
+          Object {
+            "alignItems": "center",
+          }
+        }
+      >
+        <Text
+          style={
+            Array [
+              Object {
+                "fontSize": 14,
+                "height": 34,
+                "textAlign": "center",
+                "width": 80,
+              },
+              Object {
+                "textAlignVertical": "bottom",
+              },
+            ]
+          }
+        >
+          Total ETP %
+        </Text>
+        <Text
+          style={
+            Object {
+              "fontSize": 32,
+              "lineHeight": 45,
+            }
+          }
+        >
+          50.0%
+        </Text>
+      </View>
+    </View>
+  </View>
+</View>
+`;
